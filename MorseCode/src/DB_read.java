@@ -12,7 +12,7 @@ public class DB_read {
    static final String DB_URL = "jdbc:mysql://localhost:3306";
 
    //  Database credentials
-// Database credentials
+// Database credentialjhjh
    static final String USER = "root";
    static final String PASS = "root";
    
