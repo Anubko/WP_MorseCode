@@ -16,7 +16,7 @@ public class DB_read {
    static final String USER = "root";
    static final String PASS = "root";
    
-   public static void main(String[] args) {
+   public  void read() {
    Connection conn = null;
    Statement stmt = null;
    try{

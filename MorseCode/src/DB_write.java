@@ -15,7 +15,7 @@ public class DB_write {
    static final String USER = "root";
    static final String PASS = "root";
    
-   public static void main(String[] args) {
+   public  void write() {
    Connection conn = null;
    Statement stmt = null;
    Scanner user_input = new Scanner(System.in);
