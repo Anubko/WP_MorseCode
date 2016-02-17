@@ -10,7 +10,7 @@ public class DB_read {
    // JDBC driver name and database URL
    static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";  
    static final String DB_URL = "jdbc:mysql://localhost:3306";
-
+//updated
    //  Database credentials
 // Database credentialjhjh
    static final String USER = "root";
